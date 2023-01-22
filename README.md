@@ -1,1 +1,1 @@
-# statistics
+# Statistics for Dat Science and Machine Learning
