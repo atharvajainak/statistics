@@ -1,1 +1,1 @@
-# Statistics for Dat Science and Machine Learning
+# Statistics for Data Science and Machine Learning

@@ -8,6 +8,9 @@ numpy = "*"
 matplotlib = "*"
 sympy = "*"
 jupyter = "*"
+pandas = "*"
+scipy = "*"
+seaborn = "*"
 
 [dev-packages]
 
